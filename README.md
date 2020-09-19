@@ -1,9 +1,9 @@
-### Hi there 👋
+### 🦄 Hi there 👋
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript ◉_◉
 
 - 📫 How to reach me: 
-  - Telegram: @theneonwhale
+  - telegram: @theneonwhale
   - e-mail: a.kylymnyk@gmail.com
 
 ### My stack and tools:
