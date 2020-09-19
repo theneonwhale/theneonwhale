@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: Telegram: @theneonwhale, a.kylymnyk@gmail.com
+
+- 📫 How to reach me: 
+  - Telegram: @theneonwhale
+  - e-mail: a.kylymnyk@gmail.com
 
 ### My stack and tools:
 
