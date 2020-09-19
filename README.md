@@ -1,6 +1,6 @@
 ### 🦄 Hi there 👋
 
-- 🌱 I’m currently learning JavaScript ◉_◉
+- 🌱 I’m currently learning JavaScript (◉_◉)
 
 - 📫 How to reach me: 
   - telegram: @theneonwhale
