@@ -24,7 +24,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=theneonwhale)](https://github.com/anuraghazra/github-readme-stats)
 
-https://www.codewars.com/users/theneonwhale/badges/micro
+![Codewars](https://www.codewars.com/users/theneonwhale/badges/micro)
 
 ![Profile views](https://gpvc.arturio.dev/theneonwhale)
 
