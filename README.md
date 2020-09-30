@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JavaScript (◉_◉)
 
 - 📫 How to reach me: 
-  - telegram: @theneonwhale
-  - e-mail: a.kylymnyk@gmail.com
+  [![theneonwhale telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blueviolet?style=plastic&logo=telegram)](https://t.me/theneonwhale)
+  ![theneonwhale e-mail](https://img.shields.io/badge/Gmail-a.kylymnyk%40gmail.com-blueviolet?style=plastic&logo=gmail)
 
 ### My stack and tools:
 
