@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript) (◉_◉)
 
 - 📫 How to reach me: 
-  [![theneonwhale telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blueviolet?style=plastic&logo=telegram)](https://t.me/theneonwhale)
-  ![theneonwhale e-mail](https://img.shields.io/badge/Gmail-a.kylymnyk%40gmail.com-blueviolet?style=plastic&logo=gmail)
+  [![theneonwhale telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blueviolet?style=plastic&logo=telegram&link=https://t.me/theneonwhale)](https://t.me/theneonwhale)
+  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-a.kylymnyk%40gmail.com-blueviolet?style=plastic&logo=gmail&link=mailto:a.kylymnyk@gmail.com)](mailto:a.kylymnyk@gmail.com)
 
 ### My stack and tools:
 
