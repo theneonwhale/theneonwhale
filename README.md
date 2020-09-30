@@ -1,6 +1,6 @@
 ### Hi there 🦄
 
-- 🌱 I’m currently learning JavaScript (◉_◉)
+- 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript) (◉_◉)
 
 - 📫 How to reach me: 
   [![theneonwhale telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blueviolet?style=plastic&logo=telegram)](https://t.me/theneonwhale)
