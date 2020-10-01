@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-green?style=plastic&logo=node.js)
-  (✨⊙෴⊙✨)
+  (✨☼෴☼✨)
   
 - 📫 How to reach me: 
   [![theneonwhale telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blue?style=plastic&logo=telegram&link=https://t.me/theneonwhale)](https://t.me/theneonwhale)
