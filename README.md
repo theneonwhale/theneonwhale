@@ -1,9 +1,11 @@
 ### Hi there 🦄
 
-- 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript) (◉_◉)
+- 🌱 I’m currently learning 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=plastic&logo=node.js)
+  (◉_◉)
 
 - 📫 How to reach me: 
-
   [![theneonwhale telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blue?style=plastic&logo=telegram&link=https://t.me/theneonwhale)](https://t.me/theneonwhale)
   [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-a.kylymnyk%40gmail.com-red?style=plastic&logo=gmail&link=mailto:a.kylymnyk@gmail.com)](mailto:a.kylymnyk@gmail.com)
   [![theneonwhale github](https://img.shields.io/badge/GitHub-theneonwhale-grey?style=plastic&logo=github&link=https://github.com/theneonwhale)](https://github.com/theneonwhale)
