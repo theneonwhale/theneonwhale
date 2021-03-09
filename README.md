@@ -13,6 +13,8 @@
   [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-a.kylymnyk%40gmail.com-red?style=plastic&logo=gmail&link=mailto:a.kylymnyk@gmail.com)](mailto:a.kylymnyk@gmail.com)
   [![theneonwhale github](https://img.shields.io/badge/GitHub-theneonwhale-black?style=plastic&logo=github&link=https://github.com/theneonwhale)](https://github.com/theneonwhale)
   [![theneonwhale linkedin](https://img.shields.io/badge/LinkedIn-Andrii%20Kylymnyk-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/andrii-kylymnyk)](https://www.linkedin.com/in/andrii-kylymnyk)
+  
+- 🗃️ My resume is [here](https://andrii-kylymnyk.netlify.app/).
 
 ### My stack and tools:
 
